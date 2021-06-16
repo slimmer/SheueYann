@@ -11,8 +11,7 @@
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
-
-![alt text]https://raw.githubusercontent.com/slimmer/SheueYann/main/IMG_1923.jpg
+https://raw.githubusercontent.com/slimmer/SheueYann/main/IMG_1923.jpg
 
 <!-- Add your details -->
 
