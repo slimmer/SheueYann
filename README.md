@@ -10,9 +10,9 @@
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
-<!-- Add link to your picture -->https://raw.githubusercontent.com/slimmer/SheueYann/main/IMG_1923.jpg
+<!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text]https://raw.githubusercontent.com/slimmer/SheueYann/main/IMG_1923.jpg
 
 <!-- Add your details -->
 
